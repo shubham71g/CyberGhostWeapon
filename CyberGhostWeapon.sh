@@ -14,7 +14,7 @@ echo .
 apt install figlet toilet python curl -y
 apt install python3-pip
 pip install -r requirements.txt
-echo This Script Was Made By CyberGhost >update.speedx
+echo This Script Was Made By Shubham >update.speedx
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -27,7 +27,7 @@ echo -e "\e[1;31m"
 figlet CyberGhostWeapon
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border CyberGhost
-echo -e "\e[4;34m This Bomber Was Created By CyberGhost\e[0m"
+echo -e "\e[4;34m This Bomber Was Created By Shubham\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: Cyb3r.gh02t.ha@gmail.com \e[0m"
 echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/CyberGhost \e[0m"
